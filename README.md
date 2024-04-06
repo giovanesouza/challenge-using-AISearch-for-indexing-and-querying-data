@@ -12,7 +12,7 @@ Utilizando aprendizado de máquina e processamento de linguagem natural, ela per
 > [!IMPORTANT]
 >
 > - [x] Ter um cadastro na [Azure](https://azure.microsoft.com) - realize o login na plataforma;
-> - Baixe o [zipped coffee reviews](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) - Será na etapa 3 - `Storage accounts`;
+> - Baixe o [zipped coffee reviews](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) - Será utilizado na etapa 3 - `Storage accounts`;
 > 
 
 <br/>
@@ -337,7 +337,6 @@ Para a importação dos dados, siga as instruções presentes na documentação 
 A busca por IA para indexação e consulta de dados revoluciona a maneira como interagimos com grandes volumes de informação. Ferramentas como assistentes virtuais, sistemas de recomendação e plataformas de análise de dados se beneficiam enormemente, oferecendo respostas rápidas e insights precisos. Durante o processo, aprende-se a importância da qualidade dos dados, a necessidade de algoritmos eficientes e a capacidade de adaptar-se continuamente às mudanças nas tendências de dados. A IA não apenas simplifica a busca por informações, mas também desbloqueia novas possibilidades para descobertas e inovações.
 
 
-## 📖 Referências:
+## 📖 Referência:
 
 * [Explore an Azure AI Search index (UI)](https://aka.ms/ai900-ai-search)
-
